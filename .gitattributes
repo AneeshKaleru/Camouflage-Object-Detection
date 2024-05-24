@@ -1,3 +1,2 @@
-YOLOV8/** filter=lfs diff=lfs merge=lfs -text
 YOLOv8/** filter=lfs diff=lfs merge=lfs -text
 UNet/** filter=lfs diff=lfs merge=lfs -text
