@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+YOLOv8/** filter=lfs diff=lfs merge=lfs -text
+UNet/** filter=lfs diff=lfs merge=lfs -text
